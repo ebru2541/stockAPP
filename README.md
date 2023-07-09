@@ -27,5 +27,5 @@
 
 ## Expected Outcome
 
-![stock](https://github.com/ebru2541/blogApp/blob/master/src/blog-mui-redux.gif)
+![stock](https://github.com/ebru2541/stockAPP/blob/master/stock.gif)
 https://stock-app-psi.vercel.app/
